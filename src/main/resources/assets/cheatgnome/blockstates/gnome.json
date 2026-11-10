@@ -1,0 +1,259 @@
+{
+  "variants": {
+    "face=0,facing=north": {
+      "model": "cheatgnome:block/gnome_classic"
+    },
+    "face=0,facing=east": {
+      "model": "cheatgnome:block/gnome_classic",
+      "y": 90
+    },
+    "face=0,facing=south": {
+      "model": "cheatgnome:block/gnome_classic",
+      "y": 180
+    },
+    "face=0,facing=west": {
+      "model": "cheatgnome:block/gnome_classic",
+      "y": 270
+    },
+    "face=1,facing=north": {
+      "model": "cheatgnome:block/gnome_serene"
+    },
+    "face=1,facing=east": {
+      "model": "cheatgnome:block/gnome_serene",
+      "y": 90
+    },
+    "face=1,facing=south": {
+      "model": "cheatgnome:block/gnome_serene",
+      "y": 180
+    },
+    "face=1,facing=west": {
+      "model": "cheatgnome:block/gnome_serene",
+      "y": 270
+    },
+    "face=2,facing=north": {
+      "model": "cheatgnome:block/gnome_winking"
+    },
+    "face=2,facing=east": {
+      "model": "cheatgnome:block/gnome_winking",
+      "y": 90
+    },
+    "face=2,facing=south": {
+      "model": "cheatgnome:block/gnome_winking",
+      "y": 180
+    },
+    "face=2,facing=west": {
+      "model": "cheatgnome:block/gnome_winking",
+      "y": 270
+    },
+    "face=3,facing=north": {
+      "model": "cheatgnome:block/gnome_lovestruck"
+    },
+    "face=3,facing=east": {
+      "model": "cheatgnome:block/gnome_lovestruck",
+      "y": 90
+    },
+    "face=3,facing=south": {
+      "model": "cheatgnome:block/gnome_lovestruck",
+      "y": 180
+    },
+    "face=3,facing=west": {
+      "model": "cheatgnome:block/gnome_lovestruck",
+      "y": 270
+    },
+    "face=4,facing=north": {
+      "model": "cheatgnome:block/gnome_teary"
+    },
+    "face=4,facing=east": {
+      "model": "cheatgnome:block/gnome_teary",
+      "y": 90
+    },
+    "face=4,facing=south": {
+      "model": "cheatgnome:block/gnome_teary",
+      "y": 180
+    },
+    "face=4,facing=west": {
+      "model": "cheatgnome:block/gnome_teary",
+      "y": 270
+    },
+    "face=5,facing=north": {
+      "model": "cheatgnome:block/gnome_starry"
+    },
+    "face=5,facing=east": {
+      "model": "cheatgnome:block/gnome_starry",
+      "y": 90
+    },
+    "face=5,facing=south": {
+      "model": "cheatgnome:block/gnome_starry",
+      "y": 180
+    },
+    "face=5,facing=west": {
+      "model": "cheatgnome:block/gnome_starry",
+      "y": 270
+    },
+    "face=6,facing=north": {
+      "model": "cheatgnome:block/gnome_cheeky"
+    },
+    "face=6,facing=east": {
+      "model": "cheatgnome:block/gnome_cheeky",
+      "y": 90
+    },
+    "face=6,facing=south": {
+      "model": "cheatgnome:block/gnome_cheeky",
+      "y": 180
+    },
+    "face=6,facing=west": {
+      "model": "cheatgnome:block/gnome_cheeky",
+      "y": 270
+    },
+    "face=7,facing=north": {
+      "model": "cheatgnome:block/gnome_blushing"
+    },
+    "face=7,facing=east": {
+      "model": "cheatgnome:block/gnome_blushing",
+      "y": 90
+    },
+    "face=7,facing=south": {
+      "model": "cheatgnome:block/gnome_blushing",
+      "y": 180
+    },
+    "face=7,facing=west": {
+      "model": "cheatgnome:block/gnome_blushing",
+      "y": 270
+    },
+    "face=8,facing=north": {
+      "model": "cheatgnome:block/gnome_grumpy"
+    },
+    "face=8,facing=east": {
+      "model": "cheatgnome:block/gnome_grumpy",
+      "y": 90
+    },
+    "face=8,facing=south": {
+      "model": "cheatgnome:block/gnome_grumpy",
+      "y": 180
+    },
+    "face=8,facing=west": {
+      "model": "cheatgnome:block/gnome_grumpy",
+      "y": 270
+    },
+    "face=9,facing=north": {
+      "model": "cheatgnome:block/gnome_sleepy"
+    },
+    "face=9,facing=east": {
+      "model": "cheatgnome:block/gnome_sleepy",
+      "y": 90
+    },
+    "face=9,facing=south": {
+      "model": "cheatgnome:block/gnome_sleepy",
+      "y": 180
+    },
+    "face=9,facing=west": {
+      "model": "cheatgnome:block/gnome_sleepy",
+      "y": 270
+    },
+    "face=10,facing=north": {
+      "model": "cheatgnome:block/gnome_spectacled"
+    },
+    "face=10,facing=east": {
+      "model": "cheatgnome:block/gnome_spectacled",
+      "y": 90
+    },
+    "face=10,facing=south": {
+      "model": "cheatgnome:block/gnome_spectacled",
+      "y": 180
+    },
+    "face=10,facing=west": {
+      "model": "cheatgnome:block/gnome_spectacled",
+      "y": 270
+    },
+    "face=11,facing=north": {
+      "model": "cheatgnome:block/gnome_pirate"
+    },
+    "face=11,facing=east": {
+      "model": "cheatgnome:block/gnome_pirate",
+      "y": 90
+    },
+    "face=11,facing=south": {
+      "model": "cheatgnome:block/gnome_pirate",
+      "y": 180
+    },
+    "face=11,facing=west": {
+      "model": "cheatgnome:block/gnome_pirate",
+      "y": 270
+    },
+    "face=12,facing=north": {
+      "model": "cheatgnome:block/gnome_cool"
+    },
+    "face=12,facing=east": {
+      "model": "cheatgnome:block/gnome_cool",
+      "y": 90
+    },
+    "face=12,facing=south": {
+      "model": "cheatgnome:block/gnome_cool",
+      "y": 180
+    },
+    "face=12,facing=west": {
+      "model": "cheatgnome:block/gnome_cool",
+      "y": 270
+    },
+    "face=13,facing=north": {
+      "model": "cheatgnome:block/gnome_monocle"
+    },
+    "face=13,facing=east": {
+      "model": "cheatgnome:block/gnome_monocle",
+      "y": 90
+    },
+    "face=13,facing=south": {
+      "model": "cheatgnome:block/gnome_monocle",
+      "y": 180
+    },
+    "face=13,facing=west": {
+      "model": "cheatgnome:block/gnome_monocle",
+      "y": 270
+    },
+    "face=14,facing=north": {
+      "model": "cheatgnome:block/gnome_mischievous"
+    },
+    "face=14,facing=east": {
+      "model": "cheatgnome:block/gnome_mischievous",
+      "y": 90
+    },
+    "face=14,facing=south": {
+      "model": "cheatgnome:block/gnome_mischievous",
+      "y": 180
+    },
+    "face=14,facing=west": {
+      "model": "cheatgnome:block/gnome_mischievous",
+      "y": 270
+    },
+    "face=15,facing=north": {
+      "model": "cheatgnome:block/gnome_angry"
+    },
+    "face=15,facing=east": {
+      "model": "cheatgnome:block/gnome_angry",
+      "y": 90
+    },
+    "face=15,facing=south": {
+      "model": "cheatgnome:block/gnome_angry",
+      "y": 180
+    },
+    "face=15,facing=west": {
+      "model": "cheatgnome:block/gnome_angry",
+      "y": 270
+    },
+    "face=16,facing=north": {
+      "model": "cheatgnome:block/gnome_spooky"
+    },
+    "face=16,facing=east": {
+      "model": "cheatgnome:block/gnome_spooky",
+      "y": 90
+    },
+    "face=16,facing=south": {
+      "model": "cheatgnome:block/gnome_spooky",
+      "y": 180
+    },
+    "face=16,facing=west": {
+      "model": "cheatgnome:block/gnome_spooky",
+      "y": 270
+    }
+  }
+}

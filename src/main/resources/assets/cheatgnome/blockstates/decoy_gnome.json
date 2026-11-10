@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cheatgnome:block/gnome_classic"
+    },
+    "facing=east": {
+      "model": "cheatgnome:block/gnome_classic",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cheatgnome:block/gnome_classic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cheatgnome:block/gnome_classic",
+      "y": 270
+    }
+  }
+}

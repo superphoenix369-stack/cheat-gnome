@@ -1,0 +1,414 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "serene",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_serene",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "winking",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_winking",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "lovestruck",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_lovestruck",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "teary",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_teary",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "starry",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_starry",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "cheeky",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_cheeky",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "blushing",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_blushing",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "grumpy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_grumpy",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "sleepy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_sleepy",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "spectacled",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_spectacled",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "pirate",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_pirate",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "cool",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_cool",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "monocle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_monocle",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "mischievous",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_mischievous",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "angry",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_angry",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      },
+      {
+        "when": "spooky",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cheatgnome:block/gnome_spooky",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": 10561314
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": 15330540
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": 9985603
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "cheatgnome:block/gnome_classic",
+      "tints": [
+        {
+          "type": "minecraft:custom_model_data",
+          "index": 0,
+          "default": 10561314
+        },
+        {
+          "type": "minecraft:custom_model_data",
+          "index": 1,
+          "default": 15330540
+        },
+        {
+          "type": "minecraft:custom_model_data",
+          "index": 2,
+          "default": 9985603
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "cheatgnome",
+  "version": "${version}",
+  "name": "Cheat Gnome",
+  "description": "A throwback to The Sims' cheat gnome. Craft a little garden gnome statue that hands out cheats when cheats are on, and gifts (and a bit of mischief) when they're off.",
+  "authors": ["Zac Supinger"],
+  "license": "MIT",
+  "icon": "assets/cheatgnome/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.cheatgnome.CheatGnome"],
+    "client": ["com.cheatgnome.client.CheatGnomeClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
