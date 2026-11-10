@@ -1,0 +1,28 @@
+# Builds the mod on every push. The finished .jar appears under the
+# workflow run's "Artifacts" section (download "cheat-gnome-jar").
+
+name: build
+on: [pull_request, push, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v6
+      - name: validate gradle wrapper
+        uses: gradle/actions/wrapper-validation@v6
+      - name: setup jdk
+        uses: actions/setup-java@v5
+        with:
+          java-version: '25'
+          distribution: 'microsoft'
+      - name: make gradle wrapper executable
+        run: chmod +x ./gradlew
+      - name: build
+        run: ./gradlew build --stacktrace
+      - name: capture build artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: cheat-gnome-jar
+          path: build/libs/*.jar
