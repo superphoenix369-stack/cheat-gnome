@@ -1,6 +1,0 @@
-{
-  "parent": "cheatgnome:block/gnome_base",
-  "textures": {
-    "face": "cheatgnome:block/face/pirate"
-  }
-}
